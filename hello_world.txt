@@ -1,0 +1,4 @@
+#git_test
+My first github repo!
+Hello odin
+my name is takunda and im gonna blow your mind
